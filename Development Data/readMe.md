@@ -1,9 +1,9 @@
 ### 文档列表
 
-资源名称：keil 5.2   
-地址：https://pan.baidu.com/share/init?surl=DBX6c2Mzi7XTAyazIbldvg   
-提取密码：7lmu    
-提供人：上海-North    
+资源名称：keil 5.2   <br>  
+地址：https://pan.baidu.com/share/init?surl=DBX6c2Mzi7XTAyazIbldvg <br>   
+提取密码：7lmu      <br> 
+提供人：上海-North    <br>   
 
 
 资源名称：青云nrf52832教程资料    
