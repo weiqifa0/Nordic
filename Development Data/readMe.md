@@ -22,3 +22,4 @@
 ## 资源名称：AD破解文档和工具
 	AD18破解教程：[图片]http://www.mr-wu.cn/altium-designer-18-ad18-full-crack-free-download/
 	链接：[图片]https://pan.baidu.com/s/1IRDld1GDl8SB4rNnMI0AHw 密码：shsn
+	资料提供人：【管理员】深圳-skawu
