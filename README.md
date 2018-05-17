@@ -1,6 +1,6 @@
 # Nordic
-本github是群号```69759006``` 的信息收集群
-#https://lug.ustc.edu.cn/wiki/doc/smart-questions
+本github是群号```69759006``` 的信息收集群    
+###https://lug.ustc.edu.cn/wiki/doc/smart-questions
 
 ## 岗位：固件工程师
 	联系人：深圳-蓝牙产品(2536553476)
