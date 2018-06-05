@@ -23,3 +23,9 @@
 	AD18破解教程：[图片]http://www.mr-wu.cn/altium-designer-18-ad18-full-crack-free-download/
 	链接：[图片]https://pan.baidu.com/s/1IRDld1GDl8SB4rNnMI0AHw 密码：shsn
 	资料提供人：【管理员】深圳-skawu
+
+
+## 资源名称：LINUX学习资料
+	连接：https://pan.baidu.com/s/1DK9Ts-oXsKxNGzrkJM_TTw
+	密码：bdvm
+	资料提供人：【管理员】深圳-skawu
