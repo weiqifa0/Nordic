@@ -26,6 +26,10 @@
 
 
 ## 资源名称：LINUX学习资料
-	连接：https://pan.baidu.com/s/1DK9Ts-oXsKxNGzrkJM_TTw
+	链接：https://pan.baidu.com/s/1DK9Ts-oXsKxNGzrkJM_TTw
 	密码：bdvm
+	资料提供人：【管理员】深圳-skawu
+
+## 资源名称：python 学习资料
+	链接：https://pan.baidu.com/s/1gqPWUYb5BBnRpM1n7lIwPQ 密码: 密码: pj7n
 	资料提供人：【管理员】深圳-skawu
