@@ -1,4 +1,28 @@
 # 文档列表
+## rockchip 3399资料
+	链接：https://pan.baidu.com/s/1GghezC3xtA1zLVqtFi2HYw 密码：y4oc
+
+## Linux设备驱动 英文+中文+源码
+	链接：https://pan.baidu.com/s/1LdBfMMGbAWMn4HWPhieGLA 密码：wvav
+
+## 国嵌视频
+	链接：https://pan.baidu.com/s/1Cmc678o6ZKoLacXic28l7A 密码：0vhv
+
+
+## Linux pdf学习资料
+	链接：https://pan.baidu.com/s/1dI33jiPItD7kykZXOHB1zw 密码：d7an
+
+## C语言学习资料
+	链接：https://pan.baidu.com/s/1M1PdyWl8DVyHY1o795tIUw 密码：1epy
+
+## 高通芯片资料
+	链接：https://pan.baidu.com/s/1S3sA053BV2y2tFPJCl5v2A 密码：pcmy
+
+## 单片机学习资料
+	链接：https://pan.baidu.com/s/1xGjUZH00xm6NJi_36nNHZg 密码：y4xs
+
+## 工具软件 + 系统+everything32+对比工具+音频处理软件+adb
+	链接：https://pan.baidu.com/s/17rERsHZkY4M02Zkzonw4DQ 密码：fnzn
 
 ## 资源名称：keil 5.2   
 	地址：https://pan.baidu.com/share/init?surl=DBX6c2Mzi7XTAyazIbldvg    
